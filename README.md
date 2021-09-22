@@ -23,7 +23,7 @@ while (x == 100)
 
 "If" checks whether a number or variable is the same as another or not
 
-```
+```csharp
 if (x == 100)
 {
     // do something
@@ -33,7 +33,7 @@ if (x == 100)
 
 You can use "else if", if the first "if" is false, to ask something else
 
-```
+```csharp
 if (x < 100)
 {
     // do something
@@ -49,7 +49,7 @@ else if (x > 100)
 "Try-catch" is to use if multible times and if none of the if's are true, the program uses the catch
 
 As an example if you only want numbers, but the users input is a character
-```
+```csharp
 try
 {
         if (x < 100)
@@ -79,7 +79,7 @@ Everything together could look like this example:
 This is from my NumberGuesser game
 
 You can look at the whole code [here](https://github.com/EllisArn/LA1200-NumberGuesser) in Program.cs
-```
+```csharp
 while (userGuess != randomNumber)
                 {
                     try
