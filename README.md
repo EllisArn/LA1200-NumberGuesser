@@ -13,7 +13,7 @@ After this the reader should be able to code a program with "while-try-catch"
 As long as "While" is true, the program will loop the code in the while braces
 
 
-```
+```csharp
 while (x == 100)
 {
     // do something
