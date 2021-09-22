@@ -6,7 +6,7 @@
 After this the reader should be able to code a program with "while-try-catch"
 
 
-## Content 1
+## Explanation for the "while", "if", "if else", "try-catch", commands
 
 As long as "While" is true, the program will loop the code in the while braces
 
@@ -69,7 +69,7 @@ catch
 
 
 
-## Content 2
+## Example of everything put together
 
 Everything together could look like this example:
 
@@ -127,7 +127,8 @@ while (userGuess != randomNumber)
                 }
 ```
 
-## Content 3
+## Video to my NumberGuesser
+
 Here is a link to a video of my NumberGuesser because it uses "while-try-catch"
 
 It's in german so don't be confused
