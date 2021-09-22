@@ -1,15 +1,10 @@
-# LA1200-NumberGuesser
-
-This is a random number-guessing game, written in C#.
-
-### Before usage:
-
-Please install Figgle first (as NuGet-Paket).
+# This is a tutorial to the "while-try-catch" command in C#
 
 
 ## Task and goals
 
 After this the reader should be able to code a program with "while-try-catch"
+
 
 ## Content 1
 
@@ -137,7 +132,10 @@ Here is a link to a video of my NumberGuesser because it uses "while-try-catch"
 
 It's in german so don't be confused
 
-https://youtu.be/aE53JePccuQ
+(Click on the Image)
+
+[![image](https://user-images.githubusercontent.com/89130718/134318691-27437676-81d0-4960-b9f8-a26cffcbd286.png)
+](https://youtu.be/aE53JePccuQ)
 
 ## Verification + Reflection
 
