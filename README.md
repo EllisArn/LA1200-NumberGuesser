@@ -91,28 +91,28 @@ while (userGuess != randomNumber)
 
                         if (userGuess > 100)
                         {
-                            Console.WriteLine(Error input above 100);
+                            Console.WriteLine("Error input above 100");
                         }
 
               // Input is lower than 1
 
                         else if (userGuess < 1)
                         {
-                             Console.WriteLine(Error input lower than 1);
+                             Console.WriteLine("Error input lower than 1");
                         }
 
               // Input is lower than the random number
 
                         else if (userGuess > randomNumber)
                         {
-                            Console.WriteLine(Too high);
+                            Console.WriteLine("Too high");
                         }
                         
               // Input is higher than the random number
 
                         else if (userGuess < randomNumber)
                         {
-                            Console.WriteLine(Too low);
+                            Console.WriteLine("Too low");
                         }
 
                     }
@@ -121,7 +121,7 @@ while (userGuess != randomNumber)
                     
                     catch
                     {
-                        Console.WriteLine(Error invalid input);
+                        Console.WriteLine("Error invalid input");
                         {
                             userAttempts--;
                         }
